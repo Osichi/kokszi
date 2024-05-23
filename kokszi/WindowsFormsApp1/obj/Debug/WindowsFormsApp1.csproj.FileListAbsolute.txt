@@ -1,0 +1,11 @@
+D:\_Iskola\vizsga minta gyak\Beispielprüfung\2024.04.10\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\_Iskola\vizsga minta gyak\Beispielprüfung\2024.04.10\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\_Iskola\vizsga minta gyak\Beispielprüfung\2024.04.10\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\_Iskola\vizsga minta gyak\Beispielprüfung\2024.04.10\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\_Iskola\vizsga minta gyak\Beispielprüfung\2024.04.10\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\_Iskola\vizsga minta gyak\Beispielprüfung\2024.04.10\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\_Iskola\vizsga minta gyak\Beispielprüfung\2024.04.10\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\_Iskola\vizsga minta gyak\Beispielprüfung\2024.04.10\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\_Iskola\vizsga minta gyak\Beispielprüfung\2024.04.10\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\_Iskola\vizsga minta gyak\Beispielprüfung\2024.04.10\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\_Iskola\vizsga minta gyak\Beispielprüfung\2024.04.10\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
